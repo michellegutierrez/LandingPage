@@ -554,7 +554,7 @@ footer p#copyright{
     position: relative;
     width: 100%;
     height: 100vh;
-    background-image: url(./src/main-bg.png);
+    background-image: url("./src/main-bg.png");
     background-repeat: no-repeat;
     background-position: 50% 25%;
     background-size: cover;
